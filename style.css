@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 25px;
+    background: rgb(61, 123, 255);
+    display: flex;
+    flex-wrap: wrap;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    display: flex;
+}
